@@ -3,7 +3,7 @@
 - 🌱 I’m currently Working as a Data Engineer.
 - 💞️ I work closely with Data Scientists to understand their data requirements, assist in data preparation and feature engineering, and provide them with clean and well-structured data for analysis and modeling.
 - 📫 To Reach Me ... Email: telugusuresh.1998@gmail.com
-- contact: +91 9652358728
+- 📞 contact : +91 9652358728
 
 <!---
 TeluguSuresh/TeluguSuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
